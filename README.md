@@ -8,8 +8,8 @@ Watch this video to understand more - https://www.youtube.com/watch?v=hcMzwMrr1t
 
 ## Screenshots
 
-![all-movies](/relative/path/to/all-movies.png?raw=true "all-movies.png")
-![no-movies](/relative/path/to/no-movies.png?raw=true "no-movies.png")
+![all-movies](all-movies.png "all-movies.png")
+![no-movies](no-movies.png "no-movies.png")
 
 
 ## Demo
