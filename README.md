@@ -2,7 +2,7 @@
 
 This is a basic react app which help to understand React features like state, conditional rendering, event handlers etc.
 
-Watch this video to understand the complete project - https://youtu.be/fPBQpJcCflw
+Watch my video to understand the complete project - https://youtu.be/fPBQpJcCflw
 
 ## Screenshots
 
