@@ -28,10 +28,10 @@ class Movies extends Component {
               <th></th>
             </tr>
           </thead>
-          {this.state.movies.map((movie) => {
-            return (
-              <tbody key={movie._id}>
-                <tr>
+          <tbody>
+            {this.state.movies.map((movie) => {
+              return (
+                <tr key={movie._id}>
                   <td>{movie.title}</td>
                   <td>{movie.genre.name}</td>
                   <td>{movie.numberInStock}</td>
@@ -47,9 +47,9 @@ class Movies extends Component {
                     </button>
                   </td>
                 </tr>
-              </tbody>
-            );
-          })}
+              );
+            })}
+          </tbody>
         </table>
       </>
     );
